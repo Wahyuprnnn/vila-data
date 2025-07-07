@@ -11,20 +11,20 @@
     "type": "Luxury Villa",
     "location": "Canggu, Bali",
     "capacity": 350,
-    "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/refs/heads/main/kintamani"
+    "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/refs/heads/main/kintamani.jpg"
   },
   {
     "name": "Villa Semaya",
     "type": "Tropical Retreat",
     "location": "Padangbai, Bali",
     "capacity": 40,
-    "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/refs/heads/main/modern-luxury-villa-pool-medulin-croatia-15-1 (1)"
+    "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/refs/heads/main/modern-luxury-villa-pool-medulin-croatia-15-1 (1).jpg"
   },
   {
     "name": "Villa Ocean Breeze",
     "type": "Beachfront Villa",
     "location": "Serangan, Bali",
     "capacity": 30,
-    "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/refs/heads/main/Villa-Cosmo-spacious-indoor-out-Encosta-do-Lago-Quinta-do-Lago-Algarve-120-1024x682"
+    "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/refs/heads/main/Villa-Cosmo-spacious-indoor-out-Encosta-do-Lago-Quinta-do-Lago-Algarve-120-1024x682.jpg"
   }
 ]
