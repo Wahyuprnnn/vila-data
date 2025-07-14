@@ -7,24 +7,27 @@
     "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/refs/heads/main/jendela_di_bali_villa_big.jpg"
   },
   {
-    "name": "Villa Ubud Asri",
-    "type": "Private Villa",
-    "location": "Ubud, Bali",
-    "capacity": 20,
+    "name": "Villa Eka Jaya",
+    "type": "Luxury Villa",
+    "location": "Canggu, Bali",
+    "capacity": 350,
     "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/refs/heads/main/Kintamani.jpg"
   },
   {
-   "name": "Villa Canggu Lestari",
-    "type": "Luxury Villa",
-    "location": "Canggu, Bali",
-    "capacity": 20,
+    "name": "Villa Semaya",
+    "type": "Tropical Retreat",
+    "location": "Padangbai, Bali",
+    "capacity": 40,
     "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/refs/heads/main/modern-luxury-villa-pool-medulin-croatia-15-1 (1).jpg"
   },
   {
-    "name": "Villa Serangan Sari",
+    "name": "Villa Ocean Breeze",
     "type": "Beachfront Villa",
     "location": "Serangan, Bali",
-    "capacity": 30
+    "capacity": 30,
+    "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/refs/heads/main/Villa-Cosmo-spacious-indoor-out-Encosta-do-Lago-Quinta-do-Lago-Algarve-120-1024x682.jpg"
+  }
+]
     "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/refs/heads/main/Villa-Cosmo-spacious-indoor-out-Encosta-do-Lago-Quinta-do-Lago-Algarve-120-1024x682.jpg"
   }
 ]
