@@ -1,14 +1,14 @@
 [
   {
     "name": "Villa Wah",
-    "type": "Private Villa",
+    "type": "Tradisional Villa",
     "location": "Ubud, Bali",
     "capacity": 10,
     "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/main/jendela_di_bali_villa_big.jpg"  
   },
   {
     "name": "Villa Jaya",
-    "type": "Luxury Villa",
+    "type": "Private Villa",
     "location": "Kintamani, Bali",
     "capacity": 15,
     "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/main/Kintamani.jpg" 
