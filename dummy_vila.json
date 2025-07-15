@@ -1,30 +1,30 @@
 [
   {
-    "name": "Villa Virendra",
+    "name": "Villa Wah",
     "type": "Private Villa",
     "location": "Ubud, Bali",
-    "capacity": 20,
+    "capacity": 10,
     "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/main/jendela_di_bali_villa_big.jpg"  
   },
   {
-    "name": "Villa Eka Jaya",
+    "name": "Villa Jaya",
     "type": "Luxury Villa",
-    "location": "Canggu, Bali",
-    "capacity": 30,
+    "location": "Kintamani, Bali",
+    "capacity": 15,
     "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/main/Kintamani.jpg" 
   },
   {
     "name": "Villa Semaya",
     "type": "Tropical Retreat",
-    "location": "Padangbai, Bali",
-    "capacity": 40,
+    "location": "Kuta, Bali",
+    "capacity": 20,
     "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/main/modern-luxury-villa-pool-medulin-croatia-15-1 (1).jpg" 
   },
   {
-    "name": "Villa Ocean Breeze",
+    "name": "Villa cozy",
     "type": "Beachfront Villa",
-    "location": "Serangan, Bali",
-    "capacity": 30,
+    "location": "Canggu, Bali",
+    "capacity": 10,
     "image_url": "https://raw.githubusercontent.com/Wahyuprnnn/vila-data/main/Villa-Cosmo-spacious-indoor-out-Encosta-do-Lago-Quinta-do-Lago-Algarve-120-1024x682.jpg" 
   }
 ]
